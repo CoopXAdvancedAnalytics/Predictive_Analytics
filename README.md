@@ -8,7 +8,7 @@ Seminar paper: [https://colab.research.google.com/drive/1W5F3gn-05zPBCSvwP4k8D7v
 # Notebooks' content:
 **EconML_CATE.ipynb** : 
 - DGP for CATE
-- Application of Meta learners in EconML
+- Application of Metalearners in EconML
 
 **Uplift_Application.ipynb**:
 
