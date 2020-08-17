@@ -5,7 +5,7 @@ Project for the Predictive Analytics Seminar at Humboldt Universitat zu Berlin S
 Seminar paper: [https://colab.research.google.com/drive/1W5F3gn-05zPBCSvwP4k8D7vM1tlTPK_O?usp=sharing](https://colab.research.google.com/drive/1W5F3gn-05zPBCSvwP4k8D7vM1tlTPK_O?usp=sharing)
 
 
-# Notebooks' content:
+## Notebooks' content:
 **EconML_CATE.ipynb** : 
 - DGP for CATE
 - Application of Metalearners in EconML
